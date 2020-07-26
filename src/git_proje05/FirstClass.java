@@ -8,7 +8,7 @@ public class FirstClass {
 		System.out.println("3. commit local masterdan");
 		System.out.println("4. commit local masterdan");
 		System.out.println("5. commit remote masterdan");
-		System.out.println("6. commit remote masterdan");
+		System.out.println("son degisim remoteden");
 
 	}
 
