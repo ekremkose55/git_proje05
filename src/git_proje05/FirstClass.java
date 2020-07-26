@@ -7,7 +7,7 @@ public class FirstClass {
 		System.out.println("2. commit local masterdan");
 		System.out.println("3. commit local masterdan");
 		System.out.println("4. commit local masterdan");
-		System.out.println("5. commit local masterdan");
+		System.out.println("5. commit remote masterdan");
 
 	}
 
